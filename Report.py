@@ -28,7 +28,7 @@ os.system('figlet " R E P O R T FB"')
 
 
 print '\x1b[96mTelegram ==> Dragon_Crack4'
-print '\x1b[96mYou tube Chanell==> Miran Boss
+print '\x1b[96mYou tube Chanell==> Miran Boss'
 print '\x1b[92mTelegram Chnell ==> KURDISH IT'
 print '\x1b[92mTEBENI ==> LA 1000 REPORT ASWTET'
 print P + '=' * 49
